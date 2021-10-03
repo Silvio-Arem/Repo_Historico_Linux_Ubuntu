@@ -1,0 +1,395 @@
+    1  pwd
+    2  lt
+    3  dir
+    4  ls
+    5  cd Documentos
+    6  ls
+    7  cls
+    8  clt
+    9  cl
+   10  mkdir Teste
+   11  ls
+   12  cd ..
+   13  cd /
+   14  ls
+   15  ls -l
+   16  man ls
+   17  man dir
+   18  man cd
+   19  ls --help
+   20  history
+   21  ls
+   22  cd ~
+   23  ls
+   24  cd documentos
+   25  cd Documentos
+   26  ls
+   27  mv teste linux
+   28  mv Teste Linux
+   29  ls
+   30  mv
+   31  mv --help
+   32  s
+   33  ls
+   34  mv Linux ~
+   35  ls
+   36  ls ~
+   37  ls
+   38  touch teste.txt
+   39  ls
+   40  mv teste.txt linux.txt
+   41  ls
+   42  cp linux.txt ~
+   43  ls
+   44  ls ~
+   45  ls
+   46  mv linux.txt ~/Downloads
+   47  ls
+   48  ls Downloads
+   49  cd ..
+   50  ls
+   51  cd Downloads
+   52  ls
+   53  cd ..
+   54  cd Documentos/
+   55  ls
+   56  cd ..
+   57  ls
+   58  clt
+   59  clp
+   60  clear
+   61  history
+   62  ls
+   63  rmdir linux.txt
+   64  rm linux.txt 
+   65  ls
+   66  cd Documentos/
+   67  ls
+   68  cd..
+   69  cd ..
+   70  ls
+   71  cd Linux/
+   72  ls
+   73  cd ..
+   74  clear
+   75  mvdir Linux/
+   76  rmdir Linux/
+   77  ls
+   78  cd Downloads/
+   79  ls
+   80  rm linux.txt 
+   81  ls
+   82  cd ..
+   83  cd ~
+   84  ls
+   85  clear
+   86  exit
+   87  exit
+   88  clear
+   89  exit
+   90  ls
+   91  cd Documentos/
+   92  toch Ubuntu
+   93  touch Ubuntu
+   94  ls
+   95  mv Ubuntu / ~
+   96  ls
+   97  cd
+   98  ls
+   99  mv ubu
+  100  clear
+  101  mv Ubuntu ~
+  102  ls
+  103  mv Ubuntu Documentos/
+  104  ls
+  105  cd Documentos/
+  106  ls
+  107  mv Ubuntu /HOME/SILVIO
+  108  mv Ubuntu ~
+  109  ls
+  110  cd ..
+  111  ls
+  112  rm Ubuntu 
+  113  ls
+  114  cd Doc
+  115  cd Documentos/
+  116  mkdir Ubuntu
+  117  ls
+  118  mv Ubuntu/ ~
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd Ubuntu/
+  123  touch test.txt
+  124  mv test.txt linux.txt
+  125  ls
+  126  cp linux.txt ~/Downloads/
+  127  ls
+  128  cd ..
+  129  ls
+  130  cd Downloads/
+  131  ls
+  132  history
+  133  lt -l
+  134  ls -l
+  135  ls --help
+  136  man mv
+  137  ls
+  138  rm linux.txt 
+  139  ls
+  140  cd ..
+  141  ls
+  142  rmdir Ubuntu/
+  143  ls
+  144  cd Ubuntu/
+  145  ls
+  146  rm linux.txt 
+  147  ls
+  148  cd ..
+  149  ls
+  150  rmdir Ubuntu/
+  151  ls
+  152  clear
+  153  exit
+  154  clar
+  155  clear
+  156  exit
+  157  clear
+  158  ls
+  159  cat Distros.txt >> test.txt 
+  160  cat Distros2.txt >> test.txt 
+  161  cat Calendario_Set.txt >> test.txt 
+  162  cat Cal_maio_2021.txt >> test.txt 
+  163  cat test.txt 
+  164  cat Chay.txt 
+  165  cat Chay.txt >> test.txt 
+  166  cat test.txt 
+  167  cat test.txt | more
+  168  cat Cal_maio_2021.txt & cat Calendario_Set.txt 
+  169  cat Cal_maio_2021.txt && cat Calendario_Set.txt 
+  170  mkdir Linux_Ubuntu && cd Linux_Ubunto
+  171  ls
+  172  cd Linux_Ubuntu/
+  173  cd ..
+  174  ls
+  175  rmdir Linux_Ubuntu/
+  176  mkdir Linux_Ubuntu && cd Linux_Ubuntu
+  177  cd ..
+  178  file Linux_Ubuntu/
+  179  file test.txt 
+  180  mv test.txt teste.txt
+  181  ls
+  182  find Documentos/
+  183  find
+  184  clear
+  185  find ~ -name teste.txt 
+  186  find ~ -name Documentos/
+  187  whatis ls
+  188  whatis mv
+  189  whatis cat
+  190  whatis whatis
+  191  whatis ls
+  192  whatis mv
+  193  whatis whatis
+  194  whatis fund
+  195  whatis find
+  196  how 
+  197  clear
+  198  mkdir Exercicios && cd Exercicios
+  199  touch lista_nomes.txt
+  200  ls
+  201  nano lista_nomes.txt 
+  202  head lista_nomes.txt 
+  203  tail lista_nomes.txt 
+  204  grep Silvio lista_nomes.txt 
+  205  cal
+  206  cal > Setembro.txt
+  207  cat Setembro.txt 
+  208  cat Setembro.txt >> lista_nomes.txt 
+  209  cat lista_nomes.txt 
+  210  more lista_nomes.txt 
+  211  less lista_nomes.txt 
+  212  cd ..
+  213  find ~ -name lista_
+  214  ls
+  215  cd Exercicios/
+  216  find ~ -name lista_nomes.txt 
+  217  file lista_nomes.txt 
+  218  whatis ls
+  219  mv lista_nomes.txt arquivo.txt
+  220  ls
+  221  clear
+  222  exist
+  223  exit
+  224  cd ..
+  225  exit
+  226  whatis 
+  227  cd Exercicios/
+  228  rm -r
+  229  rm -r*
+  230  rm -r *
+  231  ls
+  232  exit
+  233  cd ..
+  234  clear
+  235  exit
+  236  jobs
+  237  exit
+  238  whatis grep
+  239  exit
+  240  cd /
+  241  ls
+  242  cd proc/
+  243  ls
+  244  cat /proc/cpuinfo
+  245  file cpuinfo 
+  246  cat /proc/cpuinfo | more
+  247  ls
+  248  cat /proc/meminfo 
+  249  cat /proc/meminfo | more
+  250  lspci
+  251  lsusb | more
+  252  arch
+  253  uname
+  254  uname -r
+  255  uname -m
+  256  uname -n
+  257  free
+  258  cd ..
+  259  free
+  260  du -h ~
+  261  du -h ~ | more
+  262  human redeable
+  263  du -h ~| more
+  264  cd ~
+  265  du -h ~ | more
+  266  clear
+  267  whatis du
+  268  whatis | q
+  269  whatis more
+  270  cat /etc/passwd | more
+  271  reboot
+  272  shutdown --help
+  273  cat --help
+  274  cat --number
+  275  exit
+  276  shutdown --help
+  277  ls /cpu
+  278  lscpu
+  279  lshw
+  280  lshw -short
+  281  clear
+  282  echo "Silvio"
+  283  echo -e "Silvio\n"
+  284  echo "---clear
+  285  clear
+  286  whatis | q
+  287  echo -e "---INFORMAÇÕES DE HARDWERE---\n"
+  288  echo -e "---INFORMAÇÕES DE HARDWERE---\n" > minhamaquina.txt
+  289  lshw | more
+  290  lshw >> minhamaquina.txt 
+  291  cat minhamaquina.txt 
+  292  head minhamaquina.txt 
+  293  tail minhamaquina.txt 
+  294  free
+  295  echo -e "\n---INFORMAÇÕES DE MEMÓRIA---\n" > minhamaquina.txt
+  296  free >> minhamaquina.txt 
+  297  tail minhamaquina.txt 
+  298  lspci
+  299  echo -e "\n---INFORMAÇÕES DE PLACAS PCI---\n" > minhamaquina.txt
+  300  lspci >> minhamaquina.txt 
+  301  tail minhamaquina.txt 
+  302  lsusb
+  303  echo -e "\n---INFORMAÇÕES DE USB---\n" > minhamaquina.txt
+  304  lsusb >> minhamaquina.txt 
+  305  lscpu
+  306  echo -e "\n---INFORMAÇÕES DE CPU---\n" > minhamaquina.txt
+  307  lscpu >> minhamaquina.txt 
+  308  echo -e "\n---INFORMAÇÕES SOBRE O KERNEL---\n" > minhamaquina.txt
+  309  uname >> minhamaquina.txt 
+  310  echo -e "\n---INFORMAÇÕES SOBRE O KERNEL VERSÃO---\n" > minhamaquina.txt
+  311  uname -r
+  312  uname -r >> minhamaquina.txt 
+  313  echo -e "\n---INFORMAÇÕES SOBRE O KERNEL ARQUITETURA---\n" > minhamaquina.txt
+  314  uname -m
+  315  uname -m >> minhamaquina.txt 
+  316  echo -e "---INFORMAÇÕES DE HARDWERE---\n" > minhamaquina.txt
+  317  lshw
+  318  lshw >> minhamaquina.txt 
+  319  echo -e "---INFORMAÇÕES DE MEMORIA---\n" >> minhamaquina.txt
+  320  echo -e "\n---INFORMAÇÕES DE MEMORIA---\n" >> minhamaquina.txt
+  321  free
+  322  free >> minhamaquina.txt 
+  323  lspci
+  324  echo -e "\n---INFORMAÇÕES DE PLACAS PCI CONECTADAS---\n" >> minhamaquina.txt
+  325  lspci >> minhamaquina.txt 
+  326  echo -e "\n---INFORMAÇÕES DE DISPOSITIVOS USB---\n" >> minhamaquina.txt
+  327  lsusb
+  328  lsusb >> minhamaquina.txt 
+  329  echo -e "\n---INFORMAÇÕES SOBRE CPU---\n" >> minhamaquina.txt
+  330  whatis echo -e
+  331  whatis "\n"
+  332  lscpu
+  333  lscpu >> minhamaquina.txt 
+  334  echo -e "\n---INFORMAÇÕES SOBRE KERNEL NOME:---\n" >> minhamaquina.txt
+  335  uname
+  336  uname >> minhamaquina.txt 
+  337  echo -e "\n---INFORMAÇÕES SOBRE KERNEL VERSÃO:---\n" >> minhamaquina.txt
+  338  uname --help
+  339  uname -v
+  340  uname -r
+  341  uname -r >> minhamaquina.txt 
+  342  echo -e "\n---INFORMAÇÕES SOBRE KERNEL ARQUITETURA:---\n" >> minhamaquina.txt
+  343  uname -m
+  344  uname -m >> minhamaquina.txt 
+  345  reboot
+  346  echo -e "\n---INFORMAÇÕES SOBRE KERNEL ARQUITETURA:---\n" >> minhamaquina.txt
+  347  uname -m >> minhamaquina.txt 
+  348  shutdown --help
+  349  poweroff 
+  350  ifconfig
+  351  sudo apt install net-tools
+  352  ifconfig
+  353  whatis hostname
+  354  ls hostname
+  355  hostname ls
+  356  hostname -i
+  357  hostname -I
+  358  who
+  359  whoami
+  360  hostname --help
+  361  ping www.google.com.br
+  362  exit
+  363  ping --help
+  364  dig www.google.com.br
+  365  traceroute
+  366  sudo apt install traceroute
+  367  adduser Dio
+  368  sudo adduser Dio
+  369  clear
+  370  adduser dio
+  371  sudo adduser dio
+  372  su dio
+  373  cd ~
+  374  ls
+  375  logname
+  376  id
+  377  cat /etc/passwd
+  378  cat /etc/passwd | more
+  379  cd ..
+  380  clear
+  381  userdel -r dio
+  382  sudo userdel -r dio
+  383  su dio
+  384  cat /etc/group | more
+  385  group
+  386  groups
+  387  cat /etc/passwd
+  388  history
+  389  logname
+  390  id
+  391  history --
+  392  help --history
+  393  help history
+  394  cat history
+  395  history > texto.txt
